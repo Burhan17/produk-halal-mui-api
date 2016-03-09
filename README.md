@@ -2,7 +2,7 @@
 just for fun
 
 
-/*###########################
+###########################
 			MENU (string) ada 5 yaitu: 
 			1. nama_produk
 			2. nama_produsen
@@ -22,7 +22,7 @@ just for fun
 			
 			
 			Example http://anu.kom/index.php?menu=nama_produk&query=yakult&page=0
-			##########################################*/
+			##########################################
 
 
 
